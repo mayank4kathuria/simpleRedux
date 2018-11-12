@@ -1,4 +1,4 @@
-// Implementing Store class as done in Redux
+// Implementing the Redux Store class as done in Redux
 
 const merge = (prev, next) => Object.assign({}, prev, next);
 
